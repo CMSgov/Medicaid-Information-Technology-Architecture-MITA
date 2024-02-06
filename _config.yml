@@ -1,11 +1,11 @@
 # This config controls the live site.
 
-title: "CMCS-DSG-DSS-Certification"
+title: "CMCS-DSG-DSS-Medicaid-Information-Technology-Architecture-MITA"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to the MES Certification Repository, a collaborative community for CMS, states, and vendors.
+  Welcome to the MES MITA Repository, a collaborative community for CMS, states, and vendors.
 # this should page the repository name, available at site.github.repository_name, with a prepended slash
-baseurl: "/CMCS-DSG-DSS-Certification-Staging"
+baseurl: "/CMCS-DSG-DSS-Medicaid-Information-Technology-Architecture-MITA"
 url: ""
 # twitter_username: jekyllrb
 # github_username:  jekyll
@@ -32,13 +32,13 @@ exclude:
 
 defaults:
   - scope:
-      path: "/Outcomes and Metrics/*/*.csv"
+      path: ""
     values:
-      layout: "csv"
+      layout: ""
   - scope:
-      path: "/Conditions for Enhanced Funding/*.csv"
+      path: ""
     values:
-      layout: "csv"
+      layout: ""
       
 titles_from_headings:
   enabled: true
