@@ -1,0 +1,45 @@
+# This config controls the live site.
+
+title: "CMCS-DSG-DSS-Medicaid-Information-Technology-Architecture-MITA"
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to the MES MITA Repository, a collaborative community for CMS, states, and vendors.
+# this should page the repository name, available at site.github.repository_name, with a prepended slash
+baseurl: "/CMCS-DSG-DSS-Medicaid-Information-Technology-Architecture-MITA"
+url: ""
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+# Build settings
+# theme: just-the-docs
+# remote_theme: pages-themes/minimal@v0.2.0
+# plugins:
+#   - jekyll-remote-theme
+#   # - jekyll-feed
+
+# Exclude from processing.
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: ""
+  - scope:
+      path: ""
+    values:
+      layout: ""
+      
+titles_from_headings:
+  enabled: true
+  strip_title: true

@@ -1,1 +1,1 @@
-# Welcome to the CMS MITA Repository
+# Welcome to the CMS MITA Repository.
