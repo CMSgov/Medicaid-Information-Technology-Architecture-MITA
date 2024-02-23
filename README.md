@@ -29,7 +29,7 @@ MGB has sponsored and kicked off the following workgroups:
 
 Interested in Joining an MGB Workgroup? Contact us: <MITAGovBoard@cms.hhs.gov>
 
-## References
+## References  
 
 - [Current MITA Governance Board (Download)](https://github.com/CMSgov/Medicaid-Information-Technology-Architecture-MITA/MITA/MITA_MGBMemberList_FFY2023.pdf)
 - [CMS MGB Site](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-governance-board-overview/index.html)
