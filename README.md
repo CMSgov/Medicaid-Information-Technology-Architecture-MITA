@@ -5,7 +5,7 @@
 The purpose of this page is to re-introduce [MITA Framework](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-framework/index.html) to states and keep stakeholders abreast of the work being done by the [MITA Governance Board](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-governance-board-overview/index.html). 
 
 ## Medicaid Information Technology Architecture (MITA)
-
+  
 MITA 3.0 is the latest major release of MITA, a framework and an initiative to establish national guidelines for technologies, information, and processes that will enable a standard approach to Informational Technology (IT) implementations for state Medicaid Enterprise Systems. MITA is Included in sub-regulatory guidance to ensure state Medicaid IT projects align with national-level program goals and best practices.
 
 ## What's New
