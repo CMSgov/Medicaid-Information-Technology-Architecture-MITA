@@ -1,18 +1,6 @@
 # MITA and its Governance Board
 
-  <header  class="
-    ds-base--inverse
-    ds-u-padding--3
-    ds-u-display--flex
-    ds-u-justify-content--between
-    ds-u-align-items--center
-    ">
-  <h1 class="ds-h3 ds-u-margin-bottom--0">
-  <a href="/{{ site.github.repository_name }}"><img src="{{'/assets/images/cms-logo-white.png' | prepend: site.github.repository_name | prepend: '/'}}"width="200px"class="ds-u-valign--middle"></a>
-  <span class="ds-u-margin-left--2">MES Certification Repository</span>
-  </h1>
-  </header>
-
+  
 ## Overview
 
 The purpose of this page is to re-introduce [MITA Framework](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-framework/index.html) to states and keep stakeholders abreast of the work being done by the [MITA Governance Board](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-governance-board-overview/index.html). 
