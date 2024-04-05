@@ -1,5 +1,7 @@
 # MITA and its Governance Board
 
+    <span style="background-color:blue">![CMS Logo](/assets/images/cms-logo-white.png)</span>
+
 ## Overview
 
 The purpose of this page is to re-introduce [MITA Framework](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-framework/index.html) to states and keep stakeholders abreast of the work being done by the [MITA Governance Board](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-governance-board-overview/index.html). 
