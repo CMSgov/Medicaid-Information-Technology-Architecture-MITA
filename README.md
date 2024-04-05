@@ -1,6 +1,6 @@
 # MITA and its Governance Board
 
-    <span style="background-color:blue">![CMS Logo]('https://cmsgov.github.io/Medicaid-Information-Technology-Architecture-MITA/images/cms-logo-white.png')</span>
+    <span style="background-color:blue">![CMS Logo](https://cmsgov.github.io/Medicaid-Information-Technology-Architecture-MITA/images/cms-logo-white.png)</span>
 
 ## Overview
 
