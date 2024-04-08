@@ -1,6 +1,8 @@
-# MITA and its Governance Board
+<div style="width: 100%; height: 105px; background-color:#112E51; color: #ffffff; background-position: center;padding: 15px 15px 15px 15px">
+<img src="cms-logo-white.png" alt="CMS Logo" width="200" style="background-color: #112E51;"/>&nbsp&nbsp&nbsp
+MITA and its Governance Board
+</div>
 
-  
 ## Overview
 
 The purpose of this page is to re-introduce [MITA Framework](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-framework/index.html) to states and keep stakeholders abreast of the work being done by the [MITA Governance Board](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-governance-board-overview/index.html). 
@@ -37,3 +39,8 @@ Interested in Joining an MGB Workgroup? Contact us: <MITAGovBoard@cms.hhs.gov>
 - [MITA Frequently Asked Questions (Download)](https://cmsbox.app.box.com/index.php?rm=box_download_shared_file&shared_name=9lduavfqsdf9foo8meji8d1svv9lafod&file_id=f_1338125648504)
 - MITA Newsletters
   - [October 2023 Newsletter (Download)](https://cmsbox.app.box.com/index.php?rm=box_download_shared_file&shared_name=zku8uve0gk1hpc551iij0j80ydgfssen&file_id=f_1338129115196)
+
+<div style="width: 100%; height: 105px; background-color:#112E51; color: #ffffff; background-position: center;padding: 15px 15px 15px 15px">
+<img src="cms-logo-white.png" alt="CMS Logo" width="200" style="background-color: #112E51;"/>&nbsp&nbsp&nbsp
+This site is maintained by the CMCS Data and Systems Group.
+</div>
