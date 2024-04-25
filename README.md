@@ -3,6 +3,19 @@
 MITA and its Governance Board
 </div>
 
+[Current Board Members](boardmembers.html)
+ | 
+[FAQ](faq.html)
+
+## MITA Newsletters & Presentations
+
+<a href="/newsletters/MITANewsletterJanuary2024.pdf" target="_blank">January 2024</a>
+ &nbsp;|&nbsp;
+<a href="/newsletters/MITANewsletterSeptember2023.pdf" target="_blank">September 2023</a>
+ &nbsp;|&nbsp;
+<a href="/newsletters/SneakPeekofMITA.pdf" target="_blank">Sneak Peak of MITA - April 2024</a>
+
+
 ## Overview
 
 The purpose of this page is to re-introduce [MITA Framework](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-framework/index.html) to states and keep stakeholders abreast of the work being done by the [MITA Governance Board](https://www.medicaid.gov/medicaid/data-systems/medicaid-information-technology-architecture/medicaid-information-technology-architecture-governance-board-overview/index.html). 
@@ -44,3 +57,5 @@ Interested in Joining an MGB Workgroup? Contact us: <MITAGovBoard@cms.hhs.gov>
 <img src="cms-logo-white.png" alt="CMS Logo" width="200" style="background-color: #112E51;"/>&nbsp&nbsp&nbsp
 This site is maintained by the CMCS Data and Systems Group.
 </div>
+
+[def]: index.html
