@@ -1,0 +1,27 @@
+---
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  margin: 2rem 0;
+}
+
+main.ds-l-container {
+  max-width: inherit;
+}
+
+.ds-h1 {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.ds-l-container {
+  margin-left: 0;
+}
+
+#content {
+  padding-left: 2rem;
+}
